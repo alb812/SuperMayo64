@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: 7f841c07d2a441d448b8e3800d598d3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myPrefabSFX: {instanceID: 0}
+  - BackgroundMusicAudioSource: {instanceID: 0}
+  - BackgroundMusicIntroAudioSource: {instanceID: 0}
+  - BackgroundMusicIntro: {fileID: 8300000, guid: a0565a3825f236349b12a4b0744a44f4,
+      type: 3}
+  - BackgroundMusic: {fileID: 8300000, guid: 5f9d2c5c7eb5d17418151dcd12086f7c, type: 3}
+  - GoombaAlertSound: {instanceID: 0}
+  - GoombaDeathSound: {instanceID: 0}
+  - ElecPatrolSounds: {instanceID: 0}
+  - ElectrocutionSound: {instanceID: 0}
+  - CameraLeft: {instanceID: 0}
+  - CameraRight: {instanceID: 0}
+  - CameraIn: {instanceID: 0}
+  - CameraNormal: {instanceID: 0}
+  - CameraOut: {instanceID: 0}
+  - FireActivation: {instanceID: 0}
+  - FireBurnEffect: {instanceID: 0}
+  - ButtonPress: {instanceID: 0}
+  - Timer: {instanceID: 0}
+  - YellowCoinPickUp: {instanceID: 0}
+  - YellowCoinDrop: {instanceID: 0}
+  - StarAppear: {instanceID: 0}
+  - StarGrabbed: {instanceID: 0}
+  - OneUPSpin: {instanceID: 0}
+  - OneUPGrabbed: {instanceID: 0}
+  - boxOpened: {instanceID: 0}
+  - BowserLaugh: {instanceID: 0}
+  - pressA: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
